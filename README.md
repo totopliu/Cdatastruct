@@ -1,4 +1,5 @@
 # C data structures and algorithm
 ## list
-## stack
-## queue
+Basic implementation of c linked list
+## cSysNet
+Some small demos for system and network programming
